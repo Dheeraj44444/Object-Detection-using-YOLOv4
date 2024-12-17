@@ -1,4 +1,4 @@
-#Object Detection using YOLOv4
+# Object Detection using YOLOv4
 
 **Object Detection Using YOLOv4** is a computer vision project that uses the YOLOv4 (You Only Look Once) deep learning model for real-time object detection. The system captures video from a webcam, processes each frame, and detects objects within the scene, displaying bounding boxes and class labels on the detected objects. This project is aimed at demonstrating the power of YOLOv4 in recognizing and classifying objects in real-time.
 
